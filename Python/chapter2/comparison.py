@@ -1,0 +1,5 @@
+a=input("enter a")
+a=int(a)
+b=input("enter b")
+b=int(b)
+print("a>b", a > b)

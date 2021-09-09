@@ -1,0 +1,16 @@
+a=input("enter marks of student a")
+a=int(a)
+b=input("enter marks of student b")
+b=int(b)
+c=input("enter marks of student c")
+c=int(c)
+d=input("enter marks of student d")
+d=int(d)
+e=input("enter marks of student e")
+e=int(e)
+f=input("enter marks of student f")
+f=int(f)
+
+marks=[a,b,c,d,e,f]
+marks.sort()
+print(marks)
