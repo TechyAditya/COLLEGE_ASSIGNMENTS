@@ -7,7 +7,10 @@
 
 #include<iostream>
 using namespace std;
-class 
+class Student
+{
+    char name[20], roll_no;
+};
 int main()
 {
     
